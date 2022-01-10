@@ -1,4 +1,13 @@
-### Hi there 👋
+## Aloha mai kākou
+
+I'm Zion Leonahenahe Basque, or rather mahaloz. I'm a Ph.D. student at the [SEFCOM Lab](https://github.com/sefcom) at ASU studying computer security. I’m also the co-captain of [Shellphish](https://github.com/shellphish). Most of the code you will find here is reverse engineering tools, research projects made public, or CTF education material.
+
+Here is a pick of my favorite projects:
+
+| Project | Role | Description |
+|--|--|--|
+|[![GitHub stars](https://img.shields.io/github/stars/angr/binsync.svg)]|Lead Dev | BinSync is a syncing tool.|
+
 
 <!--
 **mahaloz/mahaloz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
