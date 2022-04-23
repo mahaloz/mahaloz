@@ -6,7 +6,7 @@ Here is a pick of my favorite projects:
 
 | Stars | Role | Description |
 |--|--|--|
-|![GitHub stars](https://img.shields.io/github/stars/mahaloz/decomp2gef.svg)| Lead Dev | [Decomp2GEF](https://github.com/mahaloz/decomp2gef) is an addon to [GEF](https://github.com/hugsy/gef) for GDB to sync decompilation, symbols, and metadata from a decompiler on-the-fly for enhanced debugging of stripped binaries. 
+|![GitHub stars](https://img.shields.io/github/stars/mahaloz/decomp2gef.svg)| Lead Dev | [decomp2dbg](https://github.com/mahaloz/decomp2dbg) is an addon to [GEF](https://github.com/hugsy/gef) for GDB to sync decompilation, symbols, and metadata from a decompiler on-the-fly for enhanced debugging of stripped binaries. 
 |![GitHub stars](https://img.shields.io/github/stars/angr/binsync.svg)|Lead Dev | [BinSync](https://github.com/angr/binsync) is a collaborative reversing plugin for cross-decompiler collaboration, built on git. Gone are the days of being unable to sync structs and types between different decompilers!|
 |![GitHub stars](https://img.shields.io/github/stars/angr/angr.svg)|Dev | [angr](https://github.com/angr/angr) is a binary analysis framework that can be used for a variety of tasks from static analysis to symbolic execution. As a dev I mostly work on the static analysis & decompilation side of the codebase. |
 |![GitHub stars](https://img.shields.io/github/stars/angr/angr-management.svg)|Dev | [angr-management](https://github.com/angr/angr-management) is the angr team self-rolled decompiler and reversing UI built 100% on top of angr. The decompiler features a rich set of research plugins. It's decompilation is getting better everyday! |
