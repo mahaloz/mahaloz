@@ -1,6 +1,6 @@
 ## Aloha mai kākou
 
-I'm Zion Leonahenahe Basque, or rather mahaloz. I'm a Ph.D. student at the [SEFCOM Lab](https://github.com/sefcom) at ASU studying computer security. I’m also the co-captain of [Shellphish](https://github.com/shellphish). I love binary analysis and exploitation! Most of the code you will find here is reverse engineering tools, research projects made public, or CTF education material.
+I'm [Zion Leonahenahe Basque](https://zionbasque.com) or rather [mahaloz](https://twitter.com/mahal0z). I'm a Ph.D. student studying computer security at the [SEFCOM Lab](https://github.com/sefcom) at ASU. I’m also a previous co-captain of [Shellphish](https://github.com/shellphish). I love program analysis, decompilation, and reverse engineering! Most of the code you'll find here is reverse engineering tools, research projects made public, or CTF education material.
 
 Here is a pick of my favorite projects:
 
