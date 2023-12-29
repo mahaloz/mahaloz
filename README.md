@@ -9,8 +9,10 @@ Here is a pick of my favorite projects:
 
 | Stars | Topic | Description |
 |--|--|--|
-|![GitHub stars](https://img.shields.io/github/stars/mahaloz/sailr-eval.svg)| Decompilation | [sailr-eval](https://github.com/mahaloz/sailr-eval) is a decompiler-quality evaluation pipeline from the USENIX 2024 paper [SAILR](https://www.zionbasque.com/files/publications/sailr_usenix24.pdf). It also contains info on finding artifacts for the SAILR algorithm. 
+|![GitHub stars](https://img.shields.io/github/stars/mahaloz/sailr-eval.svg)| Decompilation | [sailr-eval](https://github.com/mahaloz/sailr-eval) is a decompiler-quality evaluation pipeline from the USENIX 2024 paper [SAILR](https://www.zionbasque.com/files/publications/sailr_usenix24.pdf). It also contains info on finding artifacts for the SAILR algorithm.|
+
 |![GitHub stars](https://img.shields.io/github/stars/angr/angr.svg)| Decompilation | [angr](https://github.com/angr/angr) is a binary analysis framework used for a variety of tasks, including decompilation. I'm one of the core developers of the home-rolled decompiler. I focus on making the generated code better.| 
+
 | ![GitHub stars](https://img.shields.io/github/stars/mahaloz/decomp2gef.svg)| Debugging | [decomp2dbg](https://github.com/mahaloz/decomp2dbg) is an addon to GDB to sync decompilation, symbols, and metadata from a decompiler on-the-fly for the enhanced debugging of binaries.|
 |![GitHub stars](https://img.shields.io/github/stars/mahaloz/daila.svg)| Decompilation | [DAILA](https://github.com/mahaloz/DAILA) is a decompiler-agnostic plugin for integrating AI into decompilation. Currently, OpenAI and the VarBERT models are supported for various reversing tasks, like variable renaming.|
 |![GitHub stars](https://img.shields.io/github/stars/angr/binsync.svg)| Reversing | [BinSync](https://github.com/angr/binsync) is a decompiler-agnostic reversing plugin for cross-decompiler collaboration, built on git. Gone are the days of being unable to sync structs and types between different decompilers!|
