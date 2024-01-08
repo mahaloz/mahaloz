@@ -11,7 +11,7 @@ Here is a pick of my favorite projects:
 - Education: 📖
 
 
-| Stars | Topic | Description |
+| Stars | T | Description |
 |--|--|--|
 |![GitHub stars](https://img.shields.io/github/stars/mahaloz/sailr-eval.svg)| 🔬 | [sailr-eval](https://github.com/mahaloz/sailr-eval) is a decompiler-quality evaluation pipeline from the USENIX 2024 paper [SAILR](https://www.zionbasque.com/files/publications/sailr_usenix24.pdf). It also contains info on finding artifacts for the SAILR algorithm.|
 |![GitHub stars](https://img.shields.io/github/stars/angr/angr.svg)| 🔬 | [angr](https://github.com/angr/angr) is a binary analysis framework used for a variety of tasks, including decompilation. I'm one of the core developers of the home-rolled decompiler. I focus on making the generated code better.| 
